@@ -1,0 +1,5 @@
+#brew install python@3.13
+#brew install numpy
+#brew install --cask requestly
+#brew install --cask panda
+#brew install plotutils
